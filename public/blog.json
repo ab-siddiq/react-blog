@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Exploring the Future of AI",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=AI+Future",
+        "author": "Jane Doe",
+        "post_date": "2024-11-16",
+        "author_image": "https://via.placeholder.com/100.png?text=Jane",
+        "reading_time": "5 min",
+        "hash_tag": "#AI #Technology"
+    },
+    {
+        "id": 2,
+        "title": "10 Tips for Better Productivity",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Productivity",
+        "author": "John Smith",
+        "post_date": "2024-11-15",
+        "author_image": "https://via.placeholder.com/100.png?text=John",
+        "reading_time": "7 min",
+        "hash_tag": "#Productivity #Tips"
+    },
+    {
+        "id": 3,
+        "title": "The Art of Minimalism",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Minimalism",
+        "author": "Emily Clark",
+        "post_date": "2024-11-14",
+        "author_image": "https://via.placeholder.com/100.png?text=Emily",
+        "reading_time": "6 min",
+        "hash_tag": "#Minimalism #Lifestyle"
+    },
+    {
+        "id": 4,
+        "title": "Understanding Quantum Computing",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Quantum+Computing",
+        "author": "Michael Brown",
+        "post_date": "2024-11-13",
+        "author_image": "https://via.placeholder.com/100.png?text=Michael",
+        "reading_time": "10 min",
+        "hash_tag": "#QuantumComputing #Science"
+    },
+    {
+        "id": 5,
+        "title": "Top 5 Travel Destinations for 2025",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Travel+2025",
+        "author": "Sarah Lee",
+        "post_date": "2024-11-12",
+        "author_image": "https://via.placeholder.com/100.png?text=Sarah",
+        "reading_time": "8 min",
+        "hash_tag": "#Travel #Adventure"
+    },
+    {
+        "id": 6,
+        "title": "Mastering the Art of Cooking",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Cooking",
+        "author": "Chef Alex",
+        "post_date": "2024-11-11",
+        "author_image": "https://via.placeholder.com/100.png?text=Alex",
+        "reading_time": "12 min",
+        "hash_tag": "#Cooking #Food"
+    },
+    {
+        "id": 7,
+        "title": "A Guide to Financial Independence",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Financial+Independence",
+        "author": "Robert Taylor",
+        "post_date": "2024-11-10",
+        "author_image": "https://via.placeholder.com/100.png?text=Robert",
+        "reading_time": "15 min",
+        "hash_tag": "#Finance #Independence"
+    },
+    {
+        "id": 8,
+        "title": "The Rise of Renewable Energy",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Renewable+Energy",
+        "author": "Linda Green",
+        "post_date": "2024-11-09",
+        "author_image": "https://via.placeholder.com/100.png?text=Linda",
+        "reading_time": "9 min",
+        "hash_tag": "#Renewables #Energy"
+    },
+    {
+        "id": 9,
+        "title": "How to Build a Startup",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Startup+Guide",
+        "author": "Mark Johnson",
+        "post_date": "2024-11-08",
+        "author_image": "https://via.placeholder.com/100.png?text=Mark",
+        "reading_time": "13 min",
+        "hash_tag": "#Startup #Entrepreneurship"
+    },
+    {
+        "id": 10,
+        "title": "The Importance of Mental Health",
+        "cover_image": "https://via.placeholder.com/300x200.png?text=Mental+Health",
+        "author": "Dr. Anna White",
+        "post_date": "2024-11-07",
+        "author_image": "https://via.placeholder.com/100.png?text=Anna",
+        "reading_time": "11 min",
+        "hash_tag": "#MentalHealth #Wellness"
+    }
+]
