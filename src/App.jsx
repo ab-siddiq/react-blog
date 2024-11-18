@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <div className="flex justify-between">
+      <div className="flex justify-between w-90px">
         <Blogs></Blogs>
         <BookMarks></BookMarks>
       </div>

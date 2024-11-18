@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import { FaRegBookmark } from "react-icons/fa";
 const Blog = ({ blog }) => {
   const { author_image, author, post_date, reading_time, cover_image, title, hash_tag } = blog;
   return (
@@ -14,8 +15,9 @@ const Blog = ({ blog }) => {
               <p className="text-xs">{post_date}</p>
             </div>
           </div>
-          <div className="">
-            <p className="">{reading_time} read icon</p>
+          <div className="flex items-center ">
+            <p className="mr-3">{reading_time} read</p>
+            <FaRegBookmark></FaRegBookmark>
           </div>
         </div>
       </div>
